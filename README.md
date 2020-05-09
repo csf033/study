@@ -1,6 +1,3 @@
-[![构建状态](/badges/dtid_45cca74f25fc7a41/dev-demo/build.svg)](/u/dtid_45cca74f25fc7a41/p/dev-demo/ci/job)
-[TOC]
-
 # 理解开发流程
 
 ![图片](https://dn-coding-net-production-pp.codehub.cn/2778bdc2-9827-4f10-8abd-da4d71c3ab4e.png)
